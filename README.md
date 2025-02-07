@@ -1,6 +1,7 @@
 <h1 align="center">Greetings with peace👋, I'm Md. Monowarul Amin</h1>
 <h3 align="center">A passionate Software developer from Dhaka, Bangladesh</h3>
 
+- 🔭 I’m currently working on **Various interesting projects related to Computer Vision and OpenCV.**
 - 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security**
 
 - 📫 How to reach me **monowarul@iut-dhaka.edu**
