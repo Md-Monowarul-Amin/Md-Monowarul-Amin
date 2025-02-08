@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Monowarul Amin</h1>
 <h3 align="center">A passionate Software developer from Dhaka, Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-monowarul-amin" alt="md-monowarul-amin" /></a> </p>
-
 - 🔭 I’m currently working on **Various interesting projects related to Computer Vision and OpenCV.**
 
 - 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security**
