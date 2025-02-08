@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **monowarul@iut-dhaka.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/?usp=sharing](https://drive.google.com/file/d/1GfiniTZ6wZgVfhvhIZtA3Nki3dZgkKCi/view?usp=sharing)
+- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1GfiniTZ6wZgVfhvhIZtA3Nki3dZgkKCi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
