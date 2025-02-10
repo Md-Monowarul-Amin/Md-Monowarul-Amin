@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Various interesting projects related to Computer Vision and OpenCV.** [link](https://github.com/Md-Monowarul-Amin/Vehicle_Collision_Speed_LicensePlate_Detection-.git)
 
-- 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security**
+- 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security.**
 
 - 📫 How to reach me **monowarul@iut-dhaka.edu**
 
