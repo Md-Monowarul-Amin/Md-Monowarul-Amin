@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Monowarul Amin</h1>
 <h3 align="center">A passionate Software developer from Dhaka, Bangladesh</h3>
 
-- 🔭 I’m currently working on **Various interesting projects related to Computer Vision and OpenCV.** [link](https://github.com/Md-Monowarul-Amin/Vehicle_Collision_Speed_LicensePlate_Detection-.git)
+<!--  - 🔭 I’m currently working on **Various interesting projects related to Computer Vision and OpenCV.** [link](https://github.com/Md-Monowarul-Amin/Vehicle_Collision_Speed_LicensePlate_Detection-.git) 
 
-- 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security.**
+- 🌱 I’m currently learning **How to build secure Software focusing on Operating Systems Security.** --> 
 
 - 📫 How to reach me **monowarul@iut-dhaka.edu**
 
